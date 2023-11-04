@@ -1,0 +1,12 @@
+termini_bizzarri = {
+    "cringe": "qualcosa di imbarazzante"
+    "lol": "tante risate"
+    "lmao":"sto morendo dalle risate"
+    "sheesh":"disapprovazione"
+}
+    
+parola = input("Scrivi una parola che non capisci (usa solo lettere maiuscole!): ")
+if parola in meme_dict.keys():
+    # Cosa fare se la parola è stata trovata?
+else:
+    # Cosa fare se la parola non è stata trovata?
